@@ -5,3 +5,4 @@ ddd
 eee
 time: 2017-08-15 23:46:50
 .git config 修改
+我已经commit了，但是我又不想commit了，回到以前的修改.此时使用git reset [--soft] id。
