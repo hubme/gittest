@@ -6,3 +6,4 @@ eee
 time: 2017-08-15 23:46:50
 .git config 修改
 我已经commit了，但是我又不想commit了，回到以前的修改.此时使用git reset [--soft] id。
+我已经commit了，发现我修改错了，想回到修改之前的代码.此时使用git reset --hard id。慎用，相当于以前的劳动白做了。可以git stash一下.
